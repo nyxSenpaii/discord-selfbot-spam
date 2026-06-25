@@ -9,6 +9,15 @@
 
 <br/>
 
+## Commands
+<br/>
+
+- `!addwrd <word>`: To add a word
+- `!start`: To start the spam
+- `!stop`: To stop the spam
+
+<br/>
+
 ## Installation
 <br/>
 
@@ -18,11 +27,6 @@
 ```bash
 pip install -U discord.py-self
 ```
-
-<br/>
-
-## How to Use
-<br/>
 
 - Copy the script and paste it into new **.py** file (Or clone the repo for a ready file)
 ```py
